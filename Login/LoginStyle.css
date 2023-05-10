@@ -1,0 +1,32 @@
+.login-form-div {
+    border: 1px solid #E5841E;
+    border-radius: 5px;
+    width: 25rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-error-msg {
+    font-weight:bold;
+    font-family: 'Roboto';
+    border-color: #E5841E;
+    border-style:solid;
+    border-width: thin;
+}
+
+.login-button{
+    background: #E5841E;
+    color: white;
+    border: 2px solid #E5841E;
+    border-radius: 3px;
+    padding: 5px 10px;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.login-button:hover{
+    background-color: #E5841E !important;
+    border-color: #247491 !important;
+    opacity: 1;
+}
